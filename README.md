@@ -1,8 +1,16 @@
 # YouTube-Ad-Blocker---Session-Masker
 
-**Development reason:** I normally use Brave and normally it blocks all ads but after July 30, 2024 it stopped working, I did some research on the internet and realized that I am not the only one having this problem, I reinstalled brave to see if maybe I was up to date but the ad blocker was no longer working, so I searched for some ad blockers on google web store and if I log in they were not working, so I decided to develop my own plugin.
+**Reason for development:** I normally use Brave and normally it blocks all ads but after July 30, 2024 it stopped working, I did some research on the internet and realized I'm not the only one with this problem, I reinstalled brave to see if maybe I was up to date but the ad blocker was no longer working, so I searched for some ad blockers on google web store and if I log in they don't work, so I decided to develop my own plugin.
 
-**Note:** It will block most of the ads but not all of them unfortunately.
+Steps
+    - Turn off ad blocker for Brave
+    - Open developer mode in extensions
+    - Click to upload unpacked item
+    - Select the gihub folder you downloaded
+
+
+
+**Note:** It will block most of the ads but unfortunately not all.
 
 
 
