@@ -4,7 +4,8 @@
 
 **Note:** It will block most of the ads but not all of them unfortunately.
 
-[![YouTube 2 Agustos Reklam Engelleme](https://img.youtube.com/vi/fB8TyLTD7EE/0.jpg)](https://www.youtube.com/watch?v=fB8TyLTD7EE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fB8TyLTD7EE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 For more information you can visit my YouTube channel <a href="https://www.youtube.com/channel/UCG7kNddY8k9g30UerQqVw7w" target="_blank" title="YouTube Channel">@f3riend</a>
