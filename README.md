@@ -5,4 +5,4 @@
 **Note:** It will block most of the ads but not all of them unfortunately.
 
 
-For more information you can visit my YouTube channel <a href="#">@f3riend</a>.
+For more information you can visit my YouTube channel <a href="https://www.youtube.com/channel/UCG7kNddY8k9g30UerQqVw7w">@f3riend</a>.
