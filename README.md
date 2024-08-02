@@ -12,7 +12,9 @@ Steps
 
 **Note:** It will block most of the ads but unfortunately not all.
 
-In case of ads, reloading the page will solve the situation, I recommend waiting for a while after installing the plugin.
+In case of ads, reloading the page will resolve the situation, I recommend waiting a while after installing the plugin and avoiding playlists.
+
+This is due to the fact that this is a patch I made until brave has the necessary update.
 
 
 
