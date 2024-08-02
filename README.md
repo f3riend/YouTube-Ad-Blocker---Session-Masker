@@ -16,7 +16,3 @@ In case of ads, reloading the page will resolve the situation, I recommend waiti
 
 
 Brave has made the necessary update as of August 2, 2024, but you can still use it if you want.
-
-
-
-For more information you can visit my YouTube channel <a href="https://www.youtube.com/channel/UCG7kNddY8k9g30UerQqVw7w" target="_blank" title="YouTube Channel">@f3riend</a>
