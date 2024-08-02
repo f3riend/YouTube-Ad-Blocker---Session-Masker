@@ -6,7 +6,3 @@
 
 
 For more information you can visit my YouTube channel @f3riend.
-
-
-
-Translated with DeepL.com (free version)
