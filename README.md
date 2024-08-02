@@ -1,0 +1,12 @@
+# YouTube-Ad-Blocker---Session-Masker
+
+**Development reason:** I normally use Brave and normally it blocks all ads but after July 30, 2024 it stopped working, I did some research on the internet and realized that I am not the only one having this problem, I reinstalled brave to see if maybe I was up to date but the ad blocker was no longer working, so I searched for some ad blockers on google web store and if I log in they were not working, so I decided to develop my own plugin.
+
+**Note:** It will block most of the ads but not all of them unfortunately.
+
+
+For more information you can visit my YouTube channel @f3riend.
+
+
+
+Translated with DeepL.com (free version)
