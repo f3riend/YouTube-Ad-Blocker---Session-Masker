@@ -14,8 +14,8 @@
 
 In case of ads, reloading the page will resolve the situation, I recommend waiting a while after installing the plugin.
 
-This is due to the fact that this is a patch I made until brave has the necessary update.
 
+Brave has made the necessary update as of August 2, 2024, but you can still use it if you want.
 
 
 
